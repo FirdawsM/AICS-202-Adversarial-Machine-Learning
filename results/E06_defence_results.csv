@@ -1,0 +1,4 @@
+model,clean,fgsm_eps0.12,pgd_eps0.12,d_clean_pp,d_fgsm_pp,d_pgd_pp
+Baseline,0.9622,0.5156,0.4889,0.0,0.0,0.0
+Augmented (aug eps 0.10),0.94,0.2844,0.26,-2.2,-23.1,-22.9
+Variant (aug eps 0.03),0.9622,0.4667,0.4378,0.0,-4.9,-5.1
